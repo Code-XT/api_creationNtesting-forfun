@@ -1,0 +1,240 @@
+{
+  "emojis": [
+    {
+      "name": "Grinning Face",
+      "symbol": "😀"
+    },
+    {
+      "name": "Smiling Face with Smiling Eyes",
+      "symbol": "😊"
+    },
+    {
+      "name": "Face Blowing a Kiss",
+      "symbol": "😘"
+    },
+    {
+      "name": "Thumbs Up",
+      "symbol": "👍"
+    },
+    {
+      "name": "Heart Eyes",
+      "symbol": "😍"
+    },
+    {
+      "name": "Thinking Face",
+      "symbol": "🤔"
+    },
+    {
+      "name": "Winking Face",
+      "symbol": "😉"
+    },
+    {
+      "name": "Crying Face",
+      "symbol": "😢"
+    },
+    {
+      "name": "Laughing Face",
+      "symbol": "😂"
+    },
+    {
+      "name": "Face with Tears of Joy",
+      "symbol": "😅"
+    },
+    {
+      "name": "Angry Face",
+      "symbol": "😠"
+    },
+    {
+      "name": "Pouting Face",
+      "symbol": "😡"
+    },
+    {
+      "name": "Red Heart",
+      "symbol": "❤️"
+    },
+    {
+      "name": "Yellow Heart",
+      "symbol": "💛"
+    },
+    {
+      "name": "Blue Heart",
+      "symbol": "💙"
+    },
+    {
+      "name": "Green Heart",
+      "symbol": "💚"
+    },
+    {
+      "name": "Broken Heart",
+      "symbol": "💔"
+    },
+    {
+      "name": "Beating Heart",
+      "symbol": "💓"
+    },
+    {
+      "name": "Two Hearts",
+      "symbol": "💕"
+    },
+    {
+      "name": "Heart with Arrow",
+      "symbol": "💘"
+    },
+    {
+      "name": "Heart with Ribbon",
+      "symbol": "💝"
+    },
+    {
+      "name": "Face with Medical Mask",
+      "symbol": "😷"
+    },
+    {
+      "name": "Face with Thermometer",
+      "symbol": "🤒"
+    },
+    {
+      "name": "Nauseated Face",
+      "symbol": "🤢"
+    },
+    {
+      "name": "Face Vomiting",
+      "symbol": "🤮"
+    },
+    {
+      "name": "Sneezing Face",
+      "symbol": "🤧"
+    },
+    {
+      "name": "Flexed Biceps",
+      "symbol": "💪"
+    },
+    {
+      "name": "Folded Hands",
+      "symbol": "🙏"
+    },
+    {
+      "name": "Waving Hand",
+      "symbol": "👋"
+    },
+    {
+      "name": "Raised Hand",
+      "symbol": "✋"
+    },
+    {
+      "name": "Victory Hand",
+      "symbol": "✌️"
+    },
+    {
+      "name": "OK Hand",
+      "symbol": "👌"
+    },
+    {
+      "name": "Thumbs Down",
+      "symbol": "👎"
+    },
+    {
+      "name": "Clapping Hands",
+      "symbol": "👏"
+    },
+    {
+      "name": "Winking Face with Tongue",
+      "symbol": "😜"
+    },
+    {
+      "name": "Relieved Face",
+      "symbol": "😌"
+    },
+    {
+      "name": "Face Savouring Delicious Food",
+      "symbol": "😋"
+    },
+    {
+      "name": "Face Screaming in Fear",
+      "symbol": "😱"
+    },
+    {
+      "name": "Smiling Face with Heart-Eyes",
+      "symbol": "😍"
+    },
+    {
+      "name": "Face with Tears of Joy",
+      "symbol": "😂"
+    },
+    {
+      "name": "Face with Rolling Eyes",
+      "symbol": "🙄"
+    },
+    {
+      "name": "Face with Raised Eyebrow",
+      "symbol": "🤨"
+    },
+    {
+      "name": "Face with Monocle",
+      "symbol": "🧐"
+    },
+    {
+      "name": "Zipper-Mouth Face",
+      "symbol": "🤐"
+    },
+    {
+      "name": "Money-Mouth Face",
+      "symbol": "🤑"
+    },
+    {
+      "name": "Nerd Face",
+      "symbol": "🤓"
+    },
+    {
+      "name": "Face with Cowboy Hat",
+      "symbol": "🤠"
+    },
+    {
+      "name": "Face with Party Horn and Party Hat",
+      "symbol": "🥳"
+    },
+    {
+      "name": "Party Popper",
+      "symbol": "🎉"
+    },
+    {
+      "name": "Face with Zipper-Mouth and Party Hat",
+      "symbol": "🤫"
+    },
+    {
+      "name": "Smiling Face with Halo",
+      "symbol": "😇"
+    },
+    {
+      "name": "Pile of Poo",
+      "symbol": "💩"
+    },
+    {
+      "name": "Clown Face",
+      "symbol": "🤡"
+    },
+    {
+      "name": "Ghost",
+      "symbol": "👻"
+    },
+    {
+      "name": "Jack-O-Lantern",
+      "symbol": "🎃"
+    },
+    {
+      "name": "Christmas Tree",
+      "symbol": "🎄"
+    },
+    {
+      "name": "Santa Claus",
+      "symbol": "🎅"
+    },
+    {
+      "name": "Fireworks",
+      "symbol": "🎆"
+    },
+    {
+      "name": "Sparkler",
+      "symbol": "🎇"
+    }
+  ]
+}
